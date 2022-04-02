@@ -1,7 +1,4 @@
 ---
-layout: cv
-title: Brigham Young's Resume
----
 # Kaden Mills 
 
 
@@ -22,7 +19,17 @@ __Brigham Young University - Idaho__, Rexburg, ID
 - Computer Science major hoping to go into Cyber Security after college
 - Have maintained at least a 3.9 GPA throughout my entire time at college
 
-Consider adding a section on the skills you have learned in the major or projects you are proud of
+
+## Skills Learned in Major
+- Python
+- SQL
+- C
+- C#
+- HTML
+- CSS
+- Javascript
+- Adapting Python for Data Science
+
 
 ## Service and Work History
 
@@ -30,7 +37,6 @@ Consider adding a section on the skills you have learned in the major or project
 __Packager__ - Wildwood Grilling, Sandpoint, ID
 
 `2020`
-This description is too long IMO
 
 __Lot Associate__ - Home Depot, Ponderay, ID
  - Dealt with special orders
