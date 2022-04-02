@@ -3,10 +3,9 @@
 
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+<a href="mil20053@byui.edu">mil20053@byui.edu</a>
+| <a href="https://www.linkedin.com/in/kaden-mills-614473204">LinkedIn</a>
+| <a href="https://github.com/socalkaden">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
